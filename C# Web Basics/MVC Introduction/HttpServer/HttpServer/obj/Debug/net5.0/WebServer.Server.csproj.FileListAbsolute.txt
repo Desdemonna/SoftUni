@@ -1,0 +1,16 @@
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.csproj.AssemblyReference.cache
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.AssemblyInfoInputs.cache
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.AssemblyInfo.cs
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.csproj.CoreCompileInputs.cache
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.exe
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.deps.json
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.runtimeconfig.json
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.runtimeconfig.dev.json
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.dll
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\ref\WebServer.Server.dll
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\bin\Debug\net5.0\WebServer.Server.pdb
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.dll
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\ref\WebServer.Server.dll
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.pdb
+C:\Users\shiki\Desktop\HttpServer\HttpServer\HttpServer\HttpServer\obj\Debug\net5.0\WebServer.Server.genruntimeconfig.cache
