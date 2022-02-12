@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WebServer.Demo/1.0.0": {
+        "dependencies": {
+          "WebServer.Server": "1.0.0"
+        },
+        "runtime": {
+          "WebServer.Demo.dll": {}
+        }
+      },
+      "WebServer.Server/1.0.0": {
+        "runtime": {
+          "WebServer.Server.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebServer.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebServer.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
